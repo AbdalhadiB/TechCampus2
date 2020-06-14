@@ -1,0 +1,1 @@
+git clone https://github.com/AbdalhadiB/TechCampus2.git لتنزيل المستودع من github
